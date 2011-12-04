@@ -1,0 +1,39 @@
+---
+author: zaki
+date: '2010-11-02 22:17:13'
+layout: default
+status: publish
+title: index
+---
+
+<div class="hero-unit">
+  <h2>Virtual Worlds. Real Experience.</h2>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <h3>Blog Posts</h3>
+    <ul class="posts unstyled">
+    {% for post in site.posts %}
+      <li class="post-link">
+        <span class="post-date label">{{ post.date | date_to_string }}</span>
+        <span class="post-blog label post-type">{{post.type}}</span>
+        <span class="post-tags">
+        {%for tag in post.tags%}
+          <span class="post-tag label important">{{tag}}</span>
+        {%endfor%}
+        </span>
+      {% if post.type == 'quote' or post.type == 'link' %}
+        <br />
+        <span class="post-quote">{{ post.content }}</span>
+      {% else %}
+        <a href="{{post.url}}" class="post-link">{{post.title}}</a>
+      {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+  <div id="sidebar" class="span3 offset1">
+    {% include sidebar.markdown %}
+  </div>
+</div>
