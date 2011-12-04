@@ -7,6 +7,7 @@ slug: yaml-merge
 status: publish
 title: Yaml !!merge
 wordpress_id: '417'
+comments: true
 tags:
   - ruby
   - yaml

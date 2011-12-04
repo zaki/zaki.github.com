@@ -7,6 +7,7 @@ slug: f-currying
 status: publish
 title: F# Currying
 wordpress_id: '258'
+comments: true
 tags:
   - F#
 ---

@@ -7,6 +7,7 @@ slug: c_for_ruby_byk
 status: publish
 title: C for Ruby
 wordpress_id: '322'
+comments: true
 tags:
   - Ruby
 ---

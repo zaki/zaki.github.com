@@ -7,6 +7,7 @@ slug: rails-3-javascript_include_tag
 status: publish
 title: Rails 3 javascript_include_tag
 wordpress_id: '511'
+comments: true
 tags:
   - rails
   - ruby

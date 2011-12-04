@@ -7,6 +7,7 @@ slug: f-sharp-swap
 status: publish
 title: F# Swap
 wordpress_id: '217'
+comments: true
 tags:
   - f#
 ---

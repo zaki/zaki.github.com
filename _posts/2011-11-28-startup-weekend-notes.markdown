@@ -6,6 +6,7 @@ type: blog
 slug: startup-weekend-notes
 status: publish
 title: Startup Weekend Notes
+comments: true
 tags:
   - startup
 ---

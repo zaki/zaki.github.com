@@ -7,6 +7,7 @@ slug: intelligent-evolution
 status: publish
 title: Intelligent evolution
 wordpress_id: '106'
+comments: true
 tags:
   - Fiction
 ---

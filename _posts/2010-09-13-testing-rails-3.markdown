@@ -7,6 +7,7 @@ slug: testing-rails-3
 status: publish
 title: Testing Rails 3.0
 wordpress_id: '369'
+comments: true
 tags:
   - rails
   - ruby

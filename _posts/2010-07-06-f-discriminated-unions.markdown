@@ -7,6 +7,7 @@ slug: f-discriminated-unions
 status: publish
 title: F# Discriminated Unions
 wordpress_id: '307'
+comments: true
 tags:
   - f#
 ---

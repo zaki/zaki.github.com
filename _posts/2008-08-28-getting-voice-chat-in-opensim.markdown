@@ -6,7 +6,6 @@ slug: getting-voice-chat-in-opensim
 status: publish
 type: blog
 title: Voice chat in OpenSim
-comments: true
 tags:
   - OpenSim
   - VoIP

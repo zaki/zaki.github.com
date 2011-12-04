@@ -7,6 +7,7 @@ slug: referrer-spam-in-statpress
 status: publish
 title: Referrer spam in statpress
 wordpress_id: '339'
+comments: true
 tags:
   - wordpress
 ---
