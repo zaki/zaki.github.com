@@ -45,6 +45,12 @@ title: Portfolio
 ### Smartphones
 <ul class="media-grid">
   <li>
+    <a href="" data-controls-modal="rody">
+      <img class="thumbnail" src="/images/portfolio/rody.png" alt="" />
+      <h6 class="portfolio-label">Rody (2012)</h6>
+    </a>
+  </li>
+  <li>
     <a href="" data-controls-modal="ringo">
       <img class="thumbnail" src="/images/portfolio/ringo-iphone.png" alt="" />
       <h6 class="portfolio-label">Ringo (2011)</h6>
@@ -279,6 +285,28 @@ title: Portfolio
   </div>
 </div>
 
+<div id="rody" class="modal hide fade">
+  <div class="modal-header">
+    <a href="#" class="close">&times;</a>
+    <h3>Rody</h3>
+  </div>
+  <div class="modal-body">
+    <p>
+      Rody is a web-based social game for the I-SKY SNS portal, the third released on this new
+      network. The players are looking after their own Rody horses that with time learn new and
+      more complicated tricks.
+      <hr />
+      <span class="label important">Rails</span>
+      <span class="label important">MySQL</span>
+      <span class="label important">Adobe Edge</span>
+      <span class="label important">Amazon EC2</span>
+    </p>
+  </div>
+  <div class="modal-footer">
+    Source code is not available for this project
+    <a href="http://sp.isky.am" class="btn primary">GO TO THE APP</a>
+  </div>
+</div>
 <div id="ringo" class="modal hide fade">
   <div class="modal-header">
     <a href="#" class="close">&times;</a>
