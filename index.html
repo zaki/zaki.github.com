@@ -11,16 +11,16 @@ title: Zaki.Asia
 </div>
 
 <div class="row">
-  <div class="span12">
+  <div class="span8">
     <h3>Blog Posts</h3>
     <ul class="posts unstyled">
     {% for post in site.posts %}
       <li class="post-link">
         <span class="post-date label">{{ post.date | date_to_string }}</span>
-        <span class="post-blog label post-type">{{post.type}}</span>
-        <span class="post-tags">
+        <span class="post-blog label post-type">{{post.type | upcase}}</span>
+        <span class="post-tags hidden-phone">
         {%for tag in post.tags%}
-          <span class="post-tag label important">{{tag}}</span>
+          <span class="post-tag label label-important">{{tag | upcase}}</span>
         {%endfor%}
         </span>
       {% if post.type == 'quote' or post.type == 'link' %}

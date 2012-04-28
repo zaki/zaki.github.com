@@ -8,33 +8,33 @@ title: Portfolio
 ---
 
 ## Virtual Worlds
-<ul class="media-grid">
+<ul class="thumbnails">
   <li>
-    <a href="#" data-controls-modal="3di-viewer-rei">
+    <a href="#3di-viewer-rei" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/3di-openviewer.png" alt="" />
       <h6 class="portfolio-label">3Di Viewer Rei (2009)</h6>
     </a>
   </li>
   <li>
-    <a href="#" data-controls-modal="wii-plugin-rei">
+    <a href="#wii-plugin-rei" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/3di-rei-wii.png" alt="" />
       <h6 class="portfolio-label">Wii Plugin for Rei (2010)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="slvoice">
+    <a href="#slvoice" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/slvoice.png" alt="" />
       <h6 class="portfolio-label">SLVoice (2008)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="cocoron-reports">
+    <a href="#cocoron-reports" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/cocoron-reports.png" alt="" />
       <h6 class="portfolio-label">Cocoron Reports (2011)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="immersive-seminar">
+    <a href="#immersive-seminar" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/immersive-seminar.png" alt="" />
       <h6 class="portfolio-label">Immersive Seminar (2010)</h6>
     </a>
@@ -43,21 +43,21 @@ title: Portfolio
 
 ## Mobile
 ### Smartphones
-<ul class="media-grid">
+<ul class="thumbnails">
   <li>
-    <a href="" data-controls-modal="rody">
+    <a href="#rody" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/rody.png" alt="" />
       <h6 class="portfolio-label">Rody (2012)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="ringo">
+    <a href="#ringo" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/ringo-iphone.png" alt="" />
       <h6 class="portfolio-label">Ringo (2011)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="hybrid">
+    <a href="#hybrid" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/hybrid.png" alt="" />
       <h6 class="portfolio-label">Hybrid (2011)</h6>
     </a>
@@ -65,65 +65,65 @@ title: Portfolio
 </ul>
 
 ### Japanese Feature Phones
-<ul class="media-grid">
+<ul class="thumbnails">
   <li>
-    <a href="" data-controls-modal="dballs">
+    <a href="#dballs" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/dballs.png" alt="" />
       <h6 class="portfolio-label">Dragonballs (2011)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="restaurant-city">
+    <a href="#restaurant-city" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/rcm.png" alt="" />
       <h6 class="portfolio-label">Restaurant City (2011)</h6>
     </a>
   </li>
 </ul>
-<ul class="media-grid">
+<ul class="thumbnails">
   <li>
-    <a href="" data-controls-modal="kirakawa">
+    <a href="#kirakawa" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/kirakawa.png" alt="" />
       <h6 class="portfolio-label">Kirakawa (2008)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="kisekae">
+    <a href="#kisekae" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/kisekae.png" alt="" />
       <h6 class="portfolio-label">Kisekae-Star (2008)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="latepara">
+    <a href="#latepara" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/latepara.png" alt="" />
       <h6 class="portfolio-label">Latin Paradise (2007)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="salsait">
+    <a href="#salsait" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/salsa.png" alt="" />
       <h6 class="portfolio-label">Salsait (2008)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="yoshii">
+    <a href="#yoshii" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/yoshii.png" alt="" />
       <h6 class="portfolio-label">Yoshii Kazuya (2007)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="slt">
+    <a href="#slt" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/slt.png" alt="" />
       <h6 class="portfolio-label">Sing Like Talking (2007)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="hayate">
+    <a href="#hayate" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/hayate.png" alt="" />
       <h6 class="portfolio-label">Hayate no Gotoku (2007)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="zchild">
+    <a href="#zchild" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/zchild.png" alt="" />
       <h6 class="portfolio-label">Zettai Karen Children (2008)</h6>
     </a>
@@ -131,21 +131,27 @@ title: Portfolio
 </ul>
 
 ## Personal
-<ul class="media-grid">
+<ul class="thumbnails">
   <li>
-    <a href="" data-controls-modal="tnd">
+    <a href="#metro" data-toggle="modal">
+      <img class="thumbnail" src="/images/portfolio/metro.png" alt="" />
+      <h6 class="portfolio-label">Tokyo Metro Visualization (2012)</h6>
+    </a>
+  </li>
+  <li>
+    <a href="#tnd" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/tnd.png" alt="" />
       <h6 class="portfolio-label">Treasure Next Door (2011)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="zazen">
+    <a href="#zazen" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/zazen.png" alt="" />
       <h6 class="portfolio-label">Zazen (2011)</h6>
     </a>
   </li>
   <li>
-    <a href="" data-controls-modal="rubyfunge">
+    <a href="#rubyfunge" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/befunge.png" alt="" />
       <h6 class="portfolio-label">Rubyfunge (2010)</h6>
     </a>
@@ -153,9 +159,9 @@ title: Portfolio
 </ul>
 
 ## University and Research
-<ul class="media-grid">
+<ul class="thumbnails">
   <li>
-    <a href="" data-controls-modal="potential-tuner">
+    <a href="#potential-tuner" data-toggle="modal">
       <img class="thumbnail" src="http://placehold.it/210x150" alt="" />
       <h6 class="portfolio-label">Potential Tuner (2003)</h6>
     </a>
@@ -166,7 +172,7 @@ title: Portfolio
 
 <div id="3di-viewer-rei" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>3Di Viewer Rei</h3>
   </div>
   <div class="modal-body">
@@ -182,19 +188,19 @@ title: Portfolio
       were still being developped for the closed-source 3Di OpenViewer (which
       has also been discontinued since)
       <hr />
-      <span class="label important">C#</span>
-      <span class="label important">C++</span>
-      <span class="label important">Irrlicht</span>
+      <span class="label label-important">C#</span>
+      <span class="label label-important">C++</span>
+      <span class="label label-important">Irrlicht</span>
     </p>
   </div>
   <div class="modal-footer">
-    <a href="http://github.com/3di/3di-viewer-rei" class="btn primary">SOURCE</a>
+    <a href="http://github.com/3di/3di-viewer-rei" class="btn btn-primary">SOURCE</a>
   </div>
 </div>
 
 <div id="wii-plugin-rei" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Wii plugin for 3Di Viewer Rei</h3>
   </div>
   <div class="modal-body">
@@ -207,18 +213,18 @@ title: Portfolio
         <br /><br/>
         This plugin has been demonstrated at the 3Di booth at CEATEC.
         <hr />
-        <span class="label important">C#</span>
-        <span class="label important">WiimoteLib</span>
+        <span class="label label-important">C#</span>
+        <span class="label label-important">WiimoteLib</span>
     </p>
   </div>
   <div class="modal-footer">
-    <a href="http://github.com/zaki/ReiWiiControllerPlugin" class="btn primary">SOURCE</a>
+    <a href="http://github.com/zaki/ReiWiiControllerPlugin" class="btn btn-primary">SOURCE</a>
   </div>
 </div>
 
 <div id="slvoice" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>SLVoice</h3>
   </div>
   <div class="modal-body">
@@ -230,18 +236,18 @@ title: Portfolio
         solutions, so SLVoice is only compatible with the SecondLife Viewer up to version
         1.22
         <hr />
-        <span class="label important">C++</span>
-        <span class="label important">PjSIP</span>
+        <span class="label label-important">C++</span>
+        <span class="label label-important">PjSIP</span>
     </p>
   </div>
   <div class="modal-footer">
-    <a href="http://github.com/zaki/slvoice" class="btn primary">SOURCE</a>
+    <a href="http://github.com/zaki/slvoice" class="btn btn-primary">SOURCE</a>
   </div>
 </div>
 
 <div id="cocoron-reports" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Cocoron Reports</h3>
   </div>
   <div class="modal-body">
@@ -250,8 +256,8 @@ title: Portfolio
       serves as a dashboard integrating data from multiple system components, such as
       the web application servers and the Red5 backend servers.
       <hr />
-      <span class="label important">Rails</span>
-      <span class="label important">MySQL</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">MySQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -261,7 +267,7 @@ title: Portfolio
 
 <div id="immersive-seminar" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Immersive Seminar</h3>
   </div>
   <div class="modal-body">
@@ -272,12 +278,12 @@ title: Portfolio
       a cloud-based on-demand service. Sadly the company was just going through a
       transition away from OpenSim so the the global offering never got out of beta.
       <hr />
-      <span class="label important">Rails</span>
-      <span class="label important">MySQL</span>
-      <span class="label important">C#</span>
-      <span class="label important">C++</span>
-      <span class="label important">Asterisk</span>
-      <span class="label important">Amazon EC2</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">MySQL</span>
+      <span class="label label-important">C#</span>
+      <span class="label label-important">C++</span>
+      <span class="label label-important">Asterisk</span>
+      <span class="label label-important">Amazon EC2</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -287,7 +293,7 @@ title: Portfolio
 
 <div id="rody" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Rody</h3>
   </div>
   <div class="modal-body">
@@ -296,20 +302,20 @@ title: Portfolio
       network. The players are looking after their own Rody horses that with time learn new and
       more complicated tricks.
       <hr />
-      <span class="label important">Rails</span>
-      <span class="label important">MySQL</span>
-      <span class="label important">Adobe Edge</span>
-      <span class="label important">Amazon EC2</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">MySQL</span>
+      <span class="label label-important">Adobe Edge</span>
+      <span class="label label-important">Amazon EC2</span>
     </p>
   </div>
   <div class="modal-footer">
     Source code is not available for this project
-    <a href="http://sp.isky.am" class="btn primary">GO TO THE APP</a>
+    <a href="http://sp.isky.am" class="btn btn-primary">GO TO THE APP</a>
   </div>
 </div>
 <div id="ringo" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Ringo</h3>
   </div>
   <div class="modal-body">
@@ -318,19 +324,19 @@ title: Portfolio
       iPhone and Android game of the same name. The implementation uses CoffeeScript and
       Canvas.
       <hr />
-      <span class="label important">CoffeeScript</span>
-      <span class="label important">HTML</span>
+      <span class="label label-important">CoffeeScript</span>
+      <span class="label label-important">HTML</span>
     </p>
   </div>
   <div class="modal-footer">
-    <a href="http://github.com/zaki/ringo-html5" class="btn primary">SOURCE</a>
+    <a href="http://github.com/zaki/ringo-html5" class="btn btn-primary">SOURCE</a>
     <a href="http://ringo.zaki.asia" class="btn">GO TO THE APP</a>
   </div>
 </div>
 
 <div id="hybrid" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Hybrid</h3>
   </div>
   <div class="modal-body">
@@ -339,9 +345,9 @@ title: Portfolio
       such as In-app purchasing and email invites. In the end the project has never really
       taken off.
       <hr />
-      <span class="label important">Objective-C</span>
-      <span class="label important">Rails</span>
-      <span class="label important">MySQL</span>
+      <span class="label label-important">Objective-C</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">MySQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -351,7 +357,7 @@ title: Portfolio
 
 <div id="dballs" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Dragonballs</h3>
   </div>
   <div class="modal-body">
@@ -359,8 +365,8 @@ title: Portfolio
       Dragonballs is a mission-battle game developped for Bandai Namco for their
       special mobile portal and SNS featuring Dragonball characters and scenes.
       <hr />
-      <span class="label important">Rails</span>
-      <span class="label important">MySQL</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">MySQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -370,7 +376,7 @@ title: Portfolio
 
 <div id="restaurant-city" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Restaurant City</h3>
   </div>
   <div class="modal-body">
@@ -379,8 +385,8 @@ title: Portfolio
       platforms. This particular version has been released on Gree in Japan for
       feature phones.
       <hr />
-      <span class="label important">Rails</span>
-      <span class="label important">MySQL</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">MySQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -390,7 +396,7 @@ title: Portfolio
 
 <div id="kirakawa" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Kirakawa</h3>
   </div>
   <div class="modal-body">
@@ -398,8 +404,8 @@ title: Portfolio
       Kirakawa is an official decome download site featuring popular characters, it
       has been released on DoCoMo, AU and SoftBank.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -409,15 +415,15 @@ title: Portfolio
 
 <div id="kisekae" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Kisekae-Star/Arrange-Star</h3>
   </div>
   <div class="modal-body">
     <p>
       Kisekae-star is an official kisekae (skin) download site on all three major carriers.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -427,7 +433,7 @@ title: Portfolio
 
 <div id="latepara" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Latin Paradise</h3>
   </div>
   <div class="modal-body">
@@ -435,8 +441,8 @@ title: Portfolio
       Latin Paradise is an official latin music fansite with chaku-uta download and
       latin music event information.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -446,15 +452,15 @@ title: Portfolio
 
 <div id="salsait" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Salsait</h3>
   </div>
   <div class="modal-body">
     <p>
       The official site for the salsa band "Orchestra de la Luz".
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -464,15 +470,15 @@ title: Portfolio
 
 <div id="yoshii" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Yoshii Kazuya</h3>
   </div>
   <div class="modal-body">
     <p>
       The official site for the popular EMI artist Yoshii Kazuya.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -482,15 +488,15 @@ title: Portfolio
 
 <div id="slt" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Sing Like Talking</h3>
   </div>
   <div class="modal-body">
     <p>
       The official site for the band Sing Like Talking.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -500,7 +506,7 @@ title: Portfolio
 
 <div id="hayate" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Hayate no Gotoku</h3>
   </div>
   <div class="modal-body">
@@ -508,8 +514,8 @@ title: Portfolio
       The official mobile site for the popular anime series "Hayate no gotoku" by
       Shougakkan Media and Digital Entertainment.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -519,7 +525,7 @@ title: Portfolio
 
 <div id="zchild" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Zettai Karen Children</h3>
   </div>
   <div class="modal-body">
@@ -527,8 +533,8 @@ title: Portfolio
       The official mobile site for the otaku anime series "Zettai Karen Children" by
       Shougakkan Media and Digital Entertainment.
       <hr />
-      <span class="label important">Ruby</span>
-      <span class="label important">PostgreSQL</span>
+      <span class="label label-important">Ruby</span>
+      <span class="label label-important">PostgreSQL</span>
     </p>
   </div>
   <div class="modal-footer">
@@ -536,9 +542,27 @@ title: Portfolio
   </div>
 </div>
 
+<div id="metro" class="modal hide fade">
+  <div class="modal-header">
+    <button class="close" data-dismiss="modal">×</button>
+    <h3>Tokyo Metro Visualization</h3>
+  </div>
+  <div class="modal-body">
+    <p>
+      Metro is a visualization of the metro cars during the day in Tokyo.
+      <hr />
+      <span class="label label-important">CoffeeScript</span>
+    </p>
+  </div>
+  <div class="modal-footer">
+  <a href="http://github.com/zaki/metro" class="btn btn-primary">SOURCE</a>
+  <a href="http://zaki.asia/metro" class="btn btn-primary">VIEW APP</a>
+  </div>
+</div>
+
 <div id="tnd" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Treasure Next Door</h3>
   </div>
   <div class="modal-body">
@@ -548,37 +572,37 @@ title: Portfolio
       don't need anymore and want to sell or give away to others living nearby (for
       example furniture or other larger items)
       <hr />
-      <span class="label important">Rails</span>
-      <span class="label important">Heroku</span>
-      <span class="label important">Amazon S3</span>
+      <span class="label label-important">Rails</span>
+      <span class="label label-important">Heroku</span>
+      <span class="label label-important">Amazon S3</span>
     </p>
   </div>
   <div class="modal-footer">
-  <a href="http://github.com/Jumble/TND" class="btn primary">SOURCE</a>
+  <a href="http://github.com/Jumble/TND" class="btn btn-primary">SOURCE</a>
   </div>
 </div>
 
 <div id="zazen" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Zazen</h3>
   </div>
   <div class="modal-body">
     <p>
       Zazen is a very minimal VIM color scheme (also available for Xcode).
       <hr />
-      <span class="label important">Vim</span>
+      <span class="label label-important">Vim</span>
     </p>
   </div>
   <div class="modal-footer">
-  <a href="http://github.com/zaki/zazen" class="btn primary">VIM</a>
-  <a href="http://github.com/zaki/zazen-xcode" class="btn primary">XCODE</a>
+  <a href="http://github.com/zaki/zazen" class="btn btn-primary">VIM</a>
+  <a href="http://github.com/zaki/zazen-xcode" class="btn btn-primary">XCODE</a>
   </div>
 </div>
 
 <div id="rubyfunge" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>RubyFunge</h3>
   </div>
   <div class="modal-body">
@@ -589,17 +613,17 @@ title: Portfolio
       code. Furthermore, it has instructions to modify its own code.
       <h6>$ gem install rubyfunge</h6>
       <hr />
-      <span class="label important">Ruby</span>
+      <span class="label label-important">Ruby</span>
     </p>
   </div>
   <div class="modal-footer">
-    <a href="http://github.com/zaki/rubyfunge" class="btn primary">SOURCE</a>
+    <a href="http://github.com/zaki/rubyfunge" class="btn btn-primary">SOURCE</a>
   </div>
 </div>
 
 <div id="potential-tuner" class="modal hide fade">
   <div class="modal-header">
-    <a href="#" class="close">&times;</a>
+    <button class="close" data-dismiss="modal">×</button>
     <h3>Potential Tuner</h3>
   </div>
   <div class="modal-body">
@@ -607,12 +631,12 @@ title: Portfolio
       Potential Tuner is a visualizer and editor tool for an autonomous helicopter
       control system that uses a 3D sensor array's potential field for navigation.
       <hr />
-      <span class="label important">C++</span>
-      <span class="label important">DirectX</span>
+      <span class="label label-important">C++</span>
+      <span class="label label-important">DirectX</span>
     </p>
   </div>
   <div class="modal-footer">
-    <a href="http://github.com/zaki/potentialtuner" class="btn primary">SOURCE</a>
+    <a href="http://github.com/zaki/potentialtuner" class="btn btn-primary">SOURCE</a>
   </div>
 </div>
 

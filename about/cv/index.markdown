@@ -6,13 +6,13 @@ slug: about/cv
 status: publish
 ---
 
-## Zoltan Dezso
+# Zoltan Dezso
 
 **Nationality**: Hungarian
 
 **Email**: dezso.zoltan gmail.com
 
-**Languages**: English (TOEIC 980), Japanese (JLPT 1), Hungarian; also studied: German, French
+**Languages**: English (TOEIC 980), Japanese (JLPT 1), Hungarian
 
 **Japan Visa Status**: Working Visa (Engineer)
 
@@ -25,20 +25,35 @@ status: publish
   * Experience **leading** small teams
   * Experience with **agile** practices, such as Scrum or TDD
 
-### Work Experience
+## Work Experience
 
-#### **[Pikkle, Inc.](http://pikkle.com)**, Tokyo, Japan
+### **[Pikkle, Inc.](http://pikkle.com)**, Tokyo, Japan
 February 2011 - :  _Software Engineer_
 
   _Mobile game development for various SNS platforms in Ruby on Rails and Objective-C for iOS_
 
+  <span class="label label-important">Ruby</span>
+  <span class="label label-important">MySQL</span>
+  <span class="label label-information">Amazon EC2</span>
+
+  * Developed Rody for I-SKY with AIIA
   * Worked on Restaurant City Mobile for Gree with EA/Playfish
   * Worked on Dragonball Battle Generation with Bandai Namco
 
-#### [**3Di, Inc.**](http://3di.biz), Tokyo, Japan
+### [**3Di, Inc.**](http://3di.biz), Tokyo, Japan
 June 2008 – January 2011 : _Senior Software Engineer_
 
   _Virtual world server and client development in C#.NET, C, C++, Ruby on Rails_
+
+  <span class="label label-important">C#</span>
+  <span class="label label-important">C/C++</span>
+  <span class="label label-important">Ruby</span>
+  <span class="label label-important">MySQL</span>
+  <span class="label label-information">.NET</span>
+  <span class="label label-information">Irrlicht</span>
+  <span class="label label-information">Asterisk</span>
+  <span class="label label-information">FreeSWITCH</span>
+  <span class="label label-information">Amazon EC2</span>
 
   * Developed [VoIP module][1] for virtual world server using C, C# using Asterisk/OpenSER and proprietary PBXs^[2][2] &^[3][3]
   * Worked on 3Di OpenSim, a virtual world server in C#
@@ -48,10 +63,13 @@ June 2008 – January 2011 : _Senior Software Engineer_
   * Developed customized Amazon EC2 instances for Asterisk PBX and virtual world server and wrote scripts to configure servers without user interaction in Ruby
   * Installed and configured CI system (buildbot and jenkins)
 
-#### **[AMU Records, Inc.](http://www.amumobile.com)**, Tokyo, Japan
+### **[AMU Records, Inc.](http://www.amumobile.com)**, Tokyo, Japan
 September 2006 – June 2008 : _Software Engineer_
 
   _Official mobile site development in Ruby with PostgreSQL_
+
+  <span class="label label-important">Ruby</span>
+  <span class="label label-important">PostgreSQL</span>
 
   * Developed mobile site framework, now used on 30+ sites, including external clients’
   * Developed CMS framework
@@ -64,8 +82,12 @@ September 2006 – June 2008 : _Software Engineer_
   * Interviewed and hired developers
   * Mentored and managed development team of six
 
-#### **[Toshiba R&D Center](http://www.toshiba.co.jp/rdc/)**, Kawasaki, Japan
+### **[Toshiba R&D Center](http://www.toshiba.co.jp/rdc/)**, Kawasaki, Japan
 September 2005 – September 2006 : _Intern, Multimedia Laboratory_
+
+  <span class="label label-important">C/C++</span>
+  <span class="label label-important">C#</span>
+  <span class="label label-information">Matlab</span>
 
   * Researched techniques of analyzing laser-scanned 3D human models
   * Implemented model matching algorithm in Matlab and C#
@@ -73,12 +95,15 @@ September 2005 – September 2006 : _Intern, Multimedia Laboratory_
   * Designed and implemented a modified octree to speed up minimum distance calculation
   * Researched model dimensionality reduction using principal component analysis
 
-#### **[Telefor, Inc.](http://www.telefor.hu)**, Hungary
+### **[Telefor, Inc.](http://www.telefor.hu)**, Hungary
 April 2004 – September 2005 : _Software Engineer (part time)_
 
 _Telefor is a subsidiary of Hungary’s largest commercial TV station providing
 SMS/IVR voting solutions for such television programs as the local version of
 American Idol and provides contents for all national mobile carriers._
+
+  <span class="label label-important">PHP</span>
+  <span class="label label-important">Oracle</span>
 
   * Developed internal reporting framework in PHP and Oracle/MySQL
   * Developed certified drawing (sweepstake) system
@@ -86,7 +111,7 @@ American Idol and provides contents for all national mobile carriers._
   * Provided on-call support and maintenance of Linux servers during live television programs
   * Provided on-site support during extremely high-traffic (3000+ SMS/sec) live programs^[11]
 
-### Open-source activities and projects
+## Open-source activities and projects
 
   * Core developer of [voipforvw](http://voipforvw.sourceforge.net) voice chat client
   * Core developer of [3di-viewer-rei](http://github.com/3di/3di-viewer-rei) virtual world viewer
@@ -97,9 +122,11 @@ American Idol and provides contents for all national mobile carriers._
   * Among top contributors of Hungarian translation for Grooveshark.
   * Simple [befunge interpreter](http://rubygems.org/gems/rubyfunge) in Ruby
   * [Skype ruby API Client](http://github.com/zaki/skypemac)  for Mac OSX
+  * [Treasure Next Door](http://github.com/zaki/TND) a Startup Weekend project
+  * [Tokyo Metro Visualization](http://zaki.asia/metro)
   * RubyKaigi attendee since 2008 and RubyKaigi [Individual Sponsor](http://rubykaigi.org/2011/en/sponsors_individual) in 2011
 
-### Certifications
+## Certifications
 
   * 2010 Ruby Certified Programmer (Gold)
   * 2008 PostgreSQL Certified Engineer (PostgreSQL 8 Silver)
@@ -108,7 +135,7 @@ American Idol and provides contents for all national mobile carriers._
   * 2008 Microsoft Certified Technology Specialist .NET 2.0 Windows Applications^[10]
   * 2007 Microsoft Certified Systems Administrator^[10]
 
-### Education
+## Education
 
 _September 2004 –September 2006 (**unfinished**)_ PhD, Intelligent Systems
 
@@ -118,7 +145,7 @@ _September 1999 –June 2004_ MSc, Information Technology
 
 [Budapest University of Technology and Economics](http://www.bme.hu), Hungary
 
-### Publications
+## Publications
 
   * Analyzing human motion using ultrasound-based motion capture (2004, MicroCAD, Hungary)
   * Efficient erasable watermark embedding in medical images (2004, INES)[12][12]
@@ -126,7 +153,7 @@ _September 1999 –June 2004_ MSc, Information Technology
   * ExtSim: A Flexible Data Mapping and Synchronization Middleware for Scientific Visualization in Virtual Worlds (2010, Journal of Virtual Worlds Research)[14][14]
 
 -----
-### Notes
+## Notes
 
 [1]:   http://github.com/zaki/slvoice
 [2]:   http://3di.biz/en/news/2009071501.html

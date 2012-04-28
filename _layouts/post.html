@@ -2,12 +2,12 @@
 layout: default
 ---
 <div class="row">
-<div id="post-date" class="span12">
+<div id="post-date" class="span8">
   <h6>
   {{ page.date | date_to_string}}
   </h6>
 </div>
-<div id="post" class="span12">
+<div id="post" class="span8">
   <h1>{{page.title}}</h1>
   <hr />
   {{ content }}
@@ -15,7 +15,7 @@ layout: default
 </div>
 
 {% if page.comments %}
-<div id="disqus_thread" class="span12"></div>
+<div id="disqus_thread" class="span8"></div>
 <script type="text/javascript">
 var disqus_shortname = 'zaki-asia';
 var disqus_identifier = '{{page.id}}';
