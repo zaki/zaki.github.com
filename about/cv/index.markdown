@@ -5,6 +5,7 @@ layout: default
 slug: about/cv
 status: publish
 ---
+<div class="right"><a href="/about/cv/ja/">日本語</a></div>
 
 # Zoltan Dezso
 
@@ -15,6 +16,8 @@ status: publish
 **Languages**: English (TOEIC 980), Japanese (JLPT 1), Hungarian
 
 **Japan Visa Status**: Working Visa (Engineer)
+
+## TL;DR
 
   * Six years work experience in **web development**, three in **mobile**
   * Five years work experience with **Ruby**
@@ -27,8 +30,20 @@ status: publish
 
 ## Work Experience
 
+
 ### **[Pikkle, Inc.](http://pikkle.com)**, Tokyo, Japan
-February 2011 - :  _Software Engineer_
+
+July 2012 - : Acquired by Klab Inc. _Software Engineer_
+
+  _Mobile game development for iOS and Android_
+
+  <span class="label label-important">C++</span>
+  <span class="label label-important">Lua</span>
+
+  * Worked on Lovelive native mobile game, using Lua
+  * Worked on native mobile game engine, using C++
+
+February 2011 - July 2012 : _Software Engineer_
 
   _Mobile game development for various SNS platforms in Ruby on Rails and Objective-C for iOS_
 
@@ -36,12 +51,12 @@ February 2011 - :  _Software Engineer_
   <span class="label label-important">MySQL</span>
   <span class="label label-information">Amazon EC2</span>
 
-  * Developed Rody for I-SKY with AIIA
-  * Worked on Restaurant City Mobile for Gree with EA/Playfish
-  * Worked on Dragonball Battle Generation with Bandai Namco
+  * Developed Rody on I-SKY for AiiA Inc.
+  * Worked on Restaurant City Mobile on Gree for EA/Playfish
+  * Worked on Dragonball Battle Generation for Bandai Namco
 
 ### [**3Di, Inc.**](http://3di.biz), Tokyo, Japan
-June 2008 – January 2011 : _Senior Software Engineer_
+June 2008 – January 2011 : _Senior Software Engineer / Technology Group Manager_
 
   _Virtual world server and client development in C#.NET, C, C++, Ruby on Rails_
 
@@ -64,7 +79,7 @@ June 2008 – January 2011 : _Senior Software Engineer_
   * Installed and configured CI system (buildbot and jenkins)
 
 ### **[AMU Records, Inc.](http://www.amumobile.com)**, Tokyo, Japan
-September 2006 – June 2008 : _Software Engineer_
+September 2006 – June 2008 : _Software Engineer / Program Group Manager_
 
   _Official mobile site development in Ruby with PostgreSQL_
 
@@ -99,8 +114,7 @@ September 2005 – September 2006 : _Intern, Multimedia Laboratory_
 April 2004 – September 2005 : _Software Engineer (part time)_
 
 _Telefor is a subsidiary of Hungary’s largest commercial TV station providing
-SMS/IVR voting solutions for such television programs as the local version of
-American Idol and provides contents for all national mobile carriers._
+SMS/IVR voting solutions and provides downloadable contents for all national mobile carriers._
 
   <span class="label label-important">PHP</span>
   <span class="label label-important">Oracle</span>
