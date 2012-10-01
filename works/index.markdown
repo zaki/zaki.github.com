@@ -133,6 +133,12 @@ title: Portfolio
 ## Personal
 <ul class="thumbnails">
   <li>
+    <a href="#flock" data-toggle="modal">
+      <img class="thumbnail" src="/images/portfolio/flock.png" alt="" />
+      <h6 class="portfolio-label">Flocking simulation (2012)</h6>
+    </a>
+  </li>
+  <li>
     <a href="#metro" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/metro.png" alt="" />
       <h6 class="portfolio-label">Tokyo Metro Visualization (2012)</h6>
@@ -539,6 +545,25 @@ title: Portfolio
   </div>
   <div class="modal-footer">
     http://www.z-child.com
+  </div>
+</div>
+
+
+<div id="flock" class="modal hide fade">
+  <div class="modal-header">
+    <button class="close" data-dismiss="modal">×</button>
+    <h3>Flocking simulation</h3>
+  </div>
+  <div class="modal-body">
+    <p>
+      Boid flocking simulation with leader boid and predators
+      <hr />
+      <span class="label label-important">CoffeeScript</span>
+    </p>
+  </div>
+  <div class="modal-footer">
+  <a href="http://github.com/zaki/flock" class="btn btn-primary">SOURCE</a>
+  <a href="http://zaki.asia/flock" class="btn btn-primary">VIEW APP</a>
   </div>
 </div>
 
