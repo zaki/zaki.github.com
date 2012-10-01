@@ -12,31 +12,31 @@ title: Portfolio
   <li>
     <a href="#3di-viewer-rei" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/3di-openviewer.png" alt="" />
-      <h6 class="portfolio-label">3Di Viewer Rei (2009)</h6>
+      <h6 class="portfolio-label">3Di Viewer Rei (2009) - 3Di</h6>
     </a>
   </li>
   <li>
     <a href="#wii-plugin-rei" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/3di-rei-wii.png" alt="" />
-      <h6 class="portfolio-label">Wii Plugin for Rei (2010)</h6>
+      <h6 class="portfolio-label">Wii Plugin for Rei (2010) - 3Di</h6>
     </a>
   </li>
   <li>
     <a href="#slvoice" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/slvoice.png" alt="" />
-      <h6 class="portfolio-label">SLVoice (2008)</h6>
+      <h6 class="portfolio-label">SLVoice (2008) - 3Di</h6>
     </a>
   </li>
   <li>
     <a href="#cocoron-reports" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/cocoron-reports.png" alt="" />
-      <h6 class="portfolio-label">Cocoron Reports (2011)</h6>
+      <h6 class="portfolio-label">Cocoron Reports (2011) - 3Di</h6>
     </a>
   </li>
   <li>
     <a href="#immersive-seminar" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/immersive-seminar.png" alt="" />
-      <h6 class="portfolio-label">Immersive Seminar (2010)</h6>
+      <h6 class="portfolio-label">Immersive Seminar (2010) - 3Di</h6>
     </a>
   </li>
 </ul>
@@ -47,19 +47,19 @@ title: Portfolio
   <li>
     <a href="#rody" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/rody.png" alt="" />
-      <h6 class="portfolio-label">Rody (2012)</h6>
+      <h6 class="portfolio-label">Rody (2012) - Pikkle</h6>
     </a>
   </li>
   <li>
     <a href="#ringo" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/ringo-iphone.png" alt="" />
-      <h6 class="portfolio-label">Ringo (2011)</h6>
+      <h6 class="portfolio-label">Ringo (2011) - Personal</h6>
     </a>
   </li>
   <li>
     <a href="#hybrid" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/hybrid.png" alt="" />
-      <h6 class="portfolio-label">Hybrid (2011)</h6>
+      <h6 class="portfolio-label">Hybrid (2011) - Pikkle</h6>
     </a>
   </li>
 </ul>
@@ -69,13 +69,13 @@ title: Portfolio
   <li>
     <a href="#dballs" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/dballs.png" alt="" />
-      <h6 class="portfolio-label">Dragonballs (2011)</h6>
+      <h6 class="portfolio-label">Dragonballs (2011) - Pikkle</h6>
     </a>
   </li>
   <li>
     <a href="#restaurant-city" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/rcm.png" alt="" />
-      <h6 class="portfolio-label">Restaurant City (2011)</h6>
+      <h6 class="portfolio-label">Restaurant City (2011) - Pikkle</h6>
     </a>
   </li>
 </ul>
@@ -83,55 +83,61 @@ title: Portfolio
   <li>
     <a href="#kirakawa" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/kirakawa.png" alt="" />
-      <h6 class="portfolio-label">Kirakawa (2008)</h6>
+      <h6 class="portfolio-label">Kirakawa (2008) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#kisekae" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/kisekae.png" alt="" />
-      <h6 class="portfolio-label">Kisekae-Star (2008)</h6>
+      <h6 class="portfolio-label">Kisekae-Star (2008) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#latepara" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/latepara.png" alt="" />
-      <h6 class="portfolio-label">Latin Paradise (2007)</h6>
+      <h6 class="portfolio-label">Latin Paradise (2007) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#salsait" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/salsa.png" alt="" />
-      <h6 class="portfolio-label">Salsait (2008)</h6>
+      <h6 class="portfolio-label">Salsait (2008) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#yoshii" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/yoshii.png" alt="" />
-      <h6 class="portfolio-label">Yoshii Kazuya (2007)</h6>
+      <h6 class="portfolio-label">Yoshii Kazuya (2007) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#slt" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/slt.png" alt="" />
-      <h6 class="portfolio-label">Sing Like Talking (2007)</h6>
+      <h6 class="portfolio-label">Sing Like Talking (2007) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#hayate" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/hayate.png" alt="" />
-      <h6 class="portfolio-label">Hayate no Gotoku (2007)</h6>
+      <h6 class="portfolio-label">Hayate no Gotoku (2007) - AMU</h6>
     </a>
   </li>
   <li>
     <a href="#zchild" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/zchild.png" alt="" />
-      <h6 class="portfolio-label">Zettai Karen Children (2008)</h6>
+      <h6 class="portfolio-label">Zettai Karen Children (2008) - AMU</h6>
     </a>
   </li>
 </ul>
 
 ## Personal
 <ul class="thumbnails">
+  <li>
+    <a href="#lifelog" data-toggle="modal">
+      <img class="thumbnail" src="/images/portfolio/lifelog.png" alt="" />
+      <h6 class="portfolio-label">Lifelog (2012)</h6>
+    </a>
+  </li>
   <li>
     <a href="#flock" data-toggle="modal">
       <img class="thumbnail" src="/images/portfolio/flock.png" alt="" />
@@ -347,9 +353,8 @@ title: Portfolio
   </div>
   <div class="modal-body">
     <p>
-      Hybrid is an iOS native wrapper around a browser game with native-only extensions,
-      such as In-app purchasing and email invites. In the end the project has never really
-      taken off.
+      Hybrid is a Pikkle project to create an iOS native wrapper around a browser game
+      with native-only extensions, such as In-app purchasing and email invites.
       <hr />
       <span class="label label-important">Objective-C</span>
       <span class="label label-important">Rails</span>
@@ -368,7 +373,7 @@ title: Portfolio
   </div>
   <div class="modal-body">
     <p>
-      Dragonballs is a mission-battle game developped for Bandai Namco for their
+      Dragonballs is a mission-battle social game developped for Bandai Namco for their
       special mobile portal and SNS featuring Dragonball characters and scenes.
       <hr />
       <span class="label label-important">Rails</span>
@@ -548,6 +553,22 @@ title: Portfolio
   </div>
 </div>
 
+<div id="lifelog" class="modal hide fade">
+  <div class="modal-header">
+    <button class="close" data-dismiss="modal">×</button>
+    <h3>Lifelog</h3>
+  </div>
+  <div class="modal-body">
+    <p>
+      My last 6 years visualized in commit messages, Social updates, emails and IMs sent.
+      <hr />
+      <span class="label label-important">Javascript</span>
+    </p>
+  </div>
+  <div class="modal-footer">
+  <a href="http://zaki.asia/lifelog" class="btn btn-primary">VIEW</a>
+  </div>
+</div>
 
 <div id="flock" class="modal hide fade">
   <div class="modal-header">
