@@ -38,11 +38,11 @@ status: publish
   <span class="label label-important">PHP</span>
 
   * 「ラブライブ」スマホゲーム開発
-  * スマホ向けネイティブゲームエンジン開発　
+  * スマホ向けネイティブゲームエンジン開発
 
 2011年2月 - 2012年7月 : _エンジニア_
 
-  _携帯よスマホ向けSNSゲーム開発_
+  _携帯やスマホ向けSNSゲーム開発_
 
   <span class="label label-important">Ruby</span>
   <span class="label label-important">MySQL</span>
@@ -115,7 +115,7 @@ _ハンガリー最大テレビ局ライブ番組中の全キャリアの携帯�
   <span class="label label-important">Oracle</span>
 
   * 内部レポートフレームワーク開発
-  * 投票者からの公証人に承認された抽選システム開発
+  * 公証人に承認された抽選システム開発
   * レポートシステムのためのデータベース最適化
   * 番組中のオンコール及びオンサイトサポートとサーバーメンテナンス
 
