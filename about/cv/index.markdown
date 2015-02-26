@@ -11,7 +11,7 @@ status: publish
 
 **Email**: dezso.zoltan gmail.com
 
-**Languages**: English (TOEIC 980), Japanese (JLPT 1), Hungarian
+**Languages**: English (Fluent, TOEIC 980), Japanese (Fluent, JLPT 1), Hungarian (Native)
 
 ## TL;DR
 
@@ -51,7 +51,7 @@ July 2012 - : Acquired by Klab Inc. _Software Engineer_
 
 February 2011 - July 2012 : _Software Engineer_
 
-  _Social mobile web game development with Ruby on Rails, Javascript, Objective-C._
+  _Social mobile web game development with Ruby on Rails_
 
   <span class="label label-information">Ruby</span>
   <span class="label label-information">MySQL</span>
@@ -146,12 +146,12 @@ April 2004 – September 2005 : _Software Engineer (part time)_
 
   * Core developer of [voipforvw](http://voipforvw.sourceforge.net) voice chat client
   * Core developer of [3di-viewer-rei](http://github.com/3di/3di-viewer-rei) virtual world viewer
-  * Maintainer of [irrlicht.net(cp)][8], .NET binding for the irrlicht 3D engine
+  * Maintainer of [irrlicht.net(cp)](http://github.com/zaki/irrlicht.net), .NET binding for the irrlicht 3D engine
   * Contributed to [opensimulator](http://opensimulator.org), a virtual world server
   * Contributed Hungarian translations to Ubuntu
-  * [Skype ruby API Client](http://github.com/zaki/skypemac)  for Mac OSX
+  * [Skype ruby API Client](http://github.com/zaki/skypemac) for Mac OSX
   * [Treasure Next Door](http://github.com/zaki/TND) a Startup Weekend project
-  * RubyKaigi attendee since 2008 and RubyKaigi [Individual Sponsor](http://rubykaigi.org/2011/en/sponsors_individual) in 2011
+  * RubyKaigi attendee since 2008 and RubyKaigi [Individual Sponsor](http://rubykaigi.org/2011/en/sponsors_individual)
 
 ## Certifications
 
