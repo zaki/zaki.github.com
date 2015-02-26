@@ -30,8 +30,8 @@ January 2013 - Present: _Software Engineer_
 
   _Smartphone game development with Unity/C# and Ruby._
 
-  <span class="label label-important">Unity</span>
-  <span class="label label-important">Ruby</span>
+  <span class="label label-information">Unity</span>
+  <span class="label label-information">Ruby</span>
 
   * Core developer of upcoming MORPG title (unity/rails)
   * Core developer for the golf game "Eagle", #1 in app store ranking with over 1M installs (unity/padrino)
@@ -42,8 +42,8 @@ July 2012 - : Acquired by Klab Inc. _Software Engineer_
 
   _Smartphone game development in Lua, C++._
 
-  <span class="label label-important">C++</span>
-  <span class="label label-important">Lua</span>
+  <span class="label label-information">C++</span>
+  <span class="label label-information">Lua</span>
 
   * Core developer of the rhythm game Lovelive, #1 in app store rankings with over 7M installs and used as the basis for the upcoming Glee rhythm game (lua/c++)
     * Developed the rhythm game part of the game
@@ -53,8 +53,8 @@ February 2011 - July 2012 : _Software Engineer_
 
   _Social mobile web game development with Ruby on Rails, Javascript, Objective-C._
 
-  <span class="label label-important">Ruby</span>
-  <span class="label label-important">MySQL</span>
+  <span class="label label-information">Ruby</span>
+  <span class="label label-information">MySQL</span>
 
   * Core developer of the smartphone web-based social game "Rody" the flagship release title of a new social network "i-sky" (rails/javascript)
     * Developed the complete backend
@@ -72,10 +72,10 @@ June 2008 – January 2011 : _Senior Software Engineer / Technology Group Manage
 
   _3D virtual world infrastructure development_
 
-  <span class="label label-important">C#</span>
-  <span class="label label-important">C/C++</span>
-  <span class="label label-important">Ruby</span>
-  <span class="label label-important">MySQL</span>
+  <span class="label label-information">C#</span>
+  <span class="label label-information">C/C++</span>
+  <span class="label label-information">Ruby</span>
+  <span class="label label-information">MySQL</span>
   <span class="label label-information">.NET</span>
   <span class="label label-information">Irrlicht</span>
   <span class="label label-information">Asterisk</span>
@@ -96,8 +96,8 @@ September 2006 – June 2008 : _Software Engineer / Program Group Manager_
 
   _Mobile web development in Ruby and PostgreSQL._
 
-  <span class="label label-important">Ruby</span>
-  <span class="label label-important">PostgreSQL</span>
+  <span class="label label-information">Ruby</span>
+  <span class="label label-information">PostgreSQL</span>
 
   * Development of official mobile sites
     * Developed first outside contract site "Hayate no Gotoku" for Shogakkan Music and Digital Entertainment, that withstood traffic during TV broadcast of the anime series of the same title
@@ -117,8 +117,8 @@ September 2006 – June 2008 : _Software Engineer / Program Group Manager_
 
 September 2005 – September 2006 : _Intern, Multimedia Laboratory_
 
-  <span class="label label-important">C/C++</span>
-  <span class="label label-important">C#</span>
+  <span class="label label-information">C/C++</span>
+  <span class="label label-information">C#</span>
   <span class="label label-information">Matlab</span>
 
   * Researched techniques of analyzing laser-scanned 3D human models
@@ -133,8 +133,8 @@ April 2004 – September 2005 : _Software Engineer (part time)_
 
   _Internal reporting system for interactive television voting system over SMS/IVR_
 
-  <span class="label label-important">PHP</span>
-  <span class="label label-important">Oracle</span>
+  <span class="label label-information">PHP</span>
+  <span class="label label-information">Oracle</span>
 
   * Developed internal reporting framework in PHP and Oracle/MySQL
   * Developed certified drawing (sweepstake) system
