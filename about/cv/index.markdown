@@ -46,8 +46,8 @@ July 2012 - : Acquired by Klab Inc. _Software Engineer_
   <span class="label label-important">Lua</span>
 
   * Core developer of the rhythm game Lovelive, #1 in app store rankings with over 7M installs and used as the basis for the upcoming Glee rhythm game (lua/c++)
-  ** Developed the rhythm game part of the game
-  ** Customized the in-house game engine to support rhythm game-specific features
+    * Developed the rhythm game part of the game
+    * Customized the in-house game engine to support rhythm game-specific features
 
 February 2011 - July 2012 : _Software Engineer_
 
@@ -57,14 +57,14 @@ February 2011 - July 2012 : _Software Engineer_
   <span class="label label-important">MySQL</span>
 
   * Core developer of the smartphone web-based social game "Rody" the flagship release title of a new social network "i-sky" (rails/javascript)
-  ** Developed the complete backend
-  ** Directed the technical portion of frontend development (javascript/adobe edge)
+    * Developed the complete backend
+    * Directed the technical portion of frontend development (javascript/adobe edge)
 
   * Developer on the feature-phone web-based social game "Restaurant City" in cooperation with EA/Playfish Japan
-  ** Worked on the backend in a team of two (rails)
+    * Worked on the backend in a team of two (rails)
 
   * Developer on the feature-phone web-based social game "Dragonball" in cooperation with Bandai Namco Games
-  ** Worked on the backend in a team of two (rails)
+    * Worked on the backend in a team of two (rails)
 
 ### [**3Di, Inc.**](http://3di.biz), Tokyo, Japan
 
@@ -83,12 +83,12 @@ June 2008 – January 2011 : _Senior Software Engineer / Technology Group Manage
   <span class="label label-information">Amazon EC2</span>
 
   * Core developer of 3Di OpenSim server and client (c#/c++)
-  ** Core developer of 3Di OpenSim Enterprise Server, collaborating with clients such as NTT Group, Sanwa Supply, ALC Inc.
-  ** Core developer of 3Di OpenViewer, a web-based 3D client
-  ** Proposed and developed international on-demand online virtual seminar service (c#/rails/c++)
-  ** Developed web-based server management infrastructure (rails/aws)
-  ** Developed VoIP infrastructure (c++/asterisk/freeswitch)
-  ** Developed web-based 3D behavior analysis and visualization tools (ruby)
+    * Core developer of 3Di OpenSim Enterprise Server, collaborating with clients such as NTT Group, Sanwa Supply, ALC Inc.
+    * Core developer of 3Di OpenViewer, a web-based 3D client
+    * Proposed and developed international on-demand online virtual seminar service (c#/rails/c++)
+    * Developed web-based server management infrastructure (rails/aws)
+    * Developed VoIP infrastructure (c++/asterisk/freeswitch)
+    * Developed web-based 3D behavior analysis and visualization tools (ruby)
 
 ### **[AMU Records, Inc.](http://www.amumobile.com)**, Tokyo, Japan
 
@@ -100,18 +100,18 @@ September 2006 – June 2008 : _Software Engineer / Program Group Manager_
   <span class="label label-important">PostgreSQL</span>
 
   * Development of official mobile sites
-  ** Developed first outside contract site "Hayate no Gotoku" for Shogakkan Music and Digital Entertainment, that withstood traffic during TV broadcast of the anime series of the same title
-  ** Developed outside contract site "Zettai Karen Children" based on the anime series of the same title for Shogakkan Music and Digital Entertainment
-  ** Worked on official mobile sites for popular JPOP artists such as Yoshii Kazuya, Sing Like Talking
-  ** Developed mobile BBS system for the official site for Yoshii Kazuya
-  ** Developed and maintained a specialized framework used internally in over 30 sites
-  ** Developed CMS and reporting framework
-  ** Developed emoji conversion library
-  ** Administered 20+ linux servers
+    * Developed first outside contract site "Hayate no Gotoku" for Shogakkan Music and Digital Entertainment, that withstood traffic during TV broadcast of the anime series of the same title
+    * Developed outside contract site "Zettai Karen Children" based on the anime series of the same title for Shogakkan Music and Digital Entertainment
+    * Worked on official mobile sites for popular JPOP artists such as Yoshii Kazuya, Sing Like Talking
+    * Developed mobile BBS system for the official site for Yoshii Kazuya
+    * Developed and maintained a specialized framework used internally in over 30 sites
+    * Developed CMS and reporting framework
+    * Developed emoji conversion library
+    * Administered 20+ linux servers
 
   * Managed the Programming Group
-  ** Interviewed, hired, managed and mentored a development team of 6
-  ** Negotiated and collaborated with outside partners
+    * Interviewed, hired, managed and mentored a development team of 6
+    * Negotiated and collaborated with outside partners
 
 ### **[Toshiba R&D Center](http://www.toshiba.co.jp/rdc/)**, Kawasaki, Japan
 
