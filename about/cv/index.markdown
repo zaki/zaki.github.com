@@ -38,7 +38,7 @@ January 2013 - Present: _Software Engineer_
 
 ### **[Pikkle, Inc.](http://pikkle.com)**, Tokyo, Japan
 
-July 2012 - : Acquired by Klab Inc. _Software Engineer_
+July 2012 - December 2012: Acquired by Klab Inc. _Software Engineer_
 
   _Smartphone game development in Lua, C++._
 
